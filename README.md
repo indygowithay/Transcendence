@@ -8,10 +8,10 @@
 <summary>List of Features:</summary>
 
 ### Texts
-- Spash Texts
+- Splash Texts
 
-### Entity
-- Experience Orb
+### Entities
+- Experience Orbs
 
 ### GUI
 - Crosshair
@@ -23,12 +23,12 @@
 - Hardcore Absorbing Hearts
 - Hotbar
 - Offhand
-- XP bar
-- Locator bar
-- 'Vehicle' Heart
+- XP Bar
+- Locator Bar
+- Mount Hearts (e.g: Horse, Donkey, etc)
 - Server Join Button
 
-### Item
+### Items
 - Enchanted Book
 - Nether Star
 - Bottle O' Enchanting
@@ -42,7 +42,6 @@
 </details>
 
 
-##
 ## Version naming system: 😸
 > `X.Y.Z`
 > 
@@ -51,7 +50,5 @@
 > `Y` - New Features
 > 
 > `Z` - Minor Patch
-
-
 
 ##
