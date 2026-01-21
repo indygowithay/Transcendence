@@ -6,7 +6,12 @@
 
 > A Resource Pack that aims to replace as many visuals of Minecraft as possible to have a Transgender theme!
 
-## List of Features: 🦈
+## Supported Versions:
+
+- 1.20.1 (Work in Progress)
+- 1.20.5 - 1.21.x
+
+## List of current texture changes: 🦈
 
 <b>Texts</b>
 
@@ -16,7 +21,8 @@
 
 - Experience Orbs
 
-<b>GUI</b>
+<details>
+    <summary><b>GUI</b></summary>
 
 - Crosshair
 - Ping icons
@@ -31,6 +37,8 @@
 - Locator Bar
 - Mount Hearts (e.g: Horse, Donkey, etc)
 - Server Join Button
+
+</details>
 
 <b>Items</b>
 
@@ -48,7 +56,17 @@
 
 ___
 
-## Planned Additions:
+## Planned Additions / Texture changes:
+
+<b>GUI</b>
+
+- [ ] Poison Hearts
+- [ ] Wither Hearts
+- [ ] Hunger Bar
+- [ ] Armor Bar
+- [ ] Jump Bar
+- [ ] Menu Background
+- [ ] 
 
 ## Version naming system: 😸
 > `X.Y.Z`
