@@ -8,13 +8,16 @@
 
 ## List of Features: 🦈
 
-### Texts
+<b>Texts</b>
+
 - Splash Texts
 
-### Entities
+<b>Entities</b>
+
 - Experience Orbs
 
-### GUI
+<b>GUI</b>
+
 - Crosshair
 - Ping icons
 - Title (Minceraft Easter Egg included)
@@ -29,19 +32,23 @@
 - Mount Hearts (e.g: Horse, Donkey, etc)
 - Server Join Button
 
-### Items
+<b>Items</b>
+
 - Enchanted Book
 - Nether Star
 - Bottle O' Enchanting
 
-### Misc
+<b>Misc</b>
+
 - Enchantment glint
 
-### Particle
+<b>Particle</b>
+
 - Enchantment Table Particles (only 27% done atm)
 
+___
 
-## Planned Re
+## Planned Additions:
 
 ## Version naming system: 😸
 > `X.Y.Z`
