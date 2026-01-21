@@ -20,9 +20,12 @@
 <b>Entities</b>
 
 - Experience Orbs
-
+<!--
 <details>
     <summary><b>GUI</b></summary>
+-->
+
+<b>GUI</b>
 
 - Crosshair
 - Ping icons
@@ -37,9 +40,9 @@
 - Locator Bar
 - Mount Hearts (e.g: Horse, Donkey, etc)
 - Server Join Button
-
+<!--
 </details>
-
+-->
 <b>Items</b>
 
 - Enchanted Book
