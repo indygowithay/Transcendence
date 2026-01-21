@@ -8,8 +8,7 @@
 
 ## List of Features: 🦈
 
-<details>
-List of Features:
+<summary>List of Features:</summary>
 
 ### Texts
 - Splash Texts
@@ -43,7 +42,6 @@ List of Features:
 ### Particle
 - Enchantment Table Particles (only 27% done atm)
 
-</details>
 
 ## Planned Re
 
