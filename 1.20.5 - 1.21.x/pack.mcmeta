@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "pack_format": 75,
+    "min_format": [32, 0],
+    "max_format": [75, 0],
+    "supported_formats":{"min_inclusive": 32, "max_inclusive": 75},
+    "description": "§9Tra§dns e§fver§dywh§9ere§f!               §2§l(v0.7.2) §r§7§oby Indygowithay"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {"min_inclusive": 32, "max_inclusive": 59},
+        "directory": "overlay_32_59"
+      }
+    ]
+  }
+}
