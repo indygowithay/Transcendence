@@ -57,8 +57,6 @@
 
 - Enchantment Table Particles (only 27% done atm)
 
-___
-
 ## Planned Additions / Texture changes:
 
 <b>GUI</b>
@@ -69,12 +67,12 @@ ___
 - [ ] Armor Bar
 - [ ] Jump Bar
 - [ ] Menu Background
-- [ ] 
+- [ ] Main Menu Panorama
 
 ## Version naming system: 😸
 > `X.Y.Z`
 > 
-> `X` - Dev State
+> `X` - Major Update
 > 
 > `Y` - New Features
 > 
