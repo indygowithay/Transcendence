@@ -55,7 +55,7 @@
     - [ ] Menu Background
     - [ ] Main Menu Panorama
 
-- <b>Misc:
+- <b>Misc:</b>
 
     - [ ] More Splash Texts
 
