@@ -1,13 +1,16 @@
 #version 150
 precision highp float;
 
-#moj_import <minecraft:fog.glsl>
-#moj_import <minecraft:dynamictransforms.glsl>
+#moj_import <fog.glsl>
 
 uniform sampler2D Sampler0;
+uniform vec4 ColorModulator;
 
-in float sphericalVertexDistance;
-in float cylindricalVertexDistance;
+uniform float FogStart;
+uniform float FogEnd;
+uniform vec4 FogColor;
+
+in float vertexDistance;
 in vec4 vertexColor;
 in vec2 texCoord0;
 in vec3 xyzPos;
@@ -25,5 +28,5 @@ void main() {
         color = vec4(1, 1, 1, color.a);
     }
 
-    fragColor = apply_fog(color, sphericalVertexDistance, cylindricalVertexDistance, FogEnvironmentalStart, FogEnvironmentalEnd, FogRenderDistanceStart, FogRenderDistanceEnd, FogColor);
+    fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
 }
