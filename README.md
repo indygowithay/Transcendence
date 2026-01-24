@@ -14,7 +14,7 @@
 ## List of current texture changes: 🦈
 
 - ### Entities:
-    - Experience Orbs (1.20.5 - 1.21.x only)
+    - Experience Orbs
 
 - ### GUI:
     - Crosshair
