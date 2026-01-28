@@ -1,57 +1,79 @@
+<div align="center">
+    🏳️‍⚧️ Trans Rights are Human Rights! 🏳️‍⚧️
+</div>
+
 # Transcendence 🏳️‍⚧️
+
 > A Resource Pack that aims to replace as many visuals of Minecraft as possible to have a Transgender theme!
-##
 
-## List of Features: 🦈
+## Supported Versions:
 
-<details>
-<summary>List of Features:</summary>
+- 1.20.x
+- 1.21.x
 
-### Texts
-- Spash Texts
+## List of current texture changes: 🦈
 
-### Entity
-- Experience Orb
+- ### Entities:
+    - Experience Orbs
+    
+- ### GUI:
+    - Crosshair
+    - Ping icons
+    - Title (Minceraft Easter Egg included)
+    - Normal Hearts
+    - Hardcore Hearts
+    - Absorbing Hearts
+    - Hardcore Absorbing Hearts
+    - Hotbar
+    - Offhand
+    - XP Bar
+    - Locator Bar
+    - Mount Hearts (e.g: Horse, Donkey, etc)
+    - Server Join Button
 
-### GUI
-- Crosshair
-- Ping icons
-- Title (Minceraft Easter Egg included)
-- Normal Hearts
-- Hardcore Hearts
-- Absorbing Hearts
-- Hardcore Absorbing Hearts
-- Hotbar
-- Offhand
-- XP bar
-- Locator bar
-- 'Vehicle' Heart
-- Server Join Button
+- ### Items:
+    - Enchanted Book
+    - Nether Star
+    - Bottle O' Enchanting
 
-### Item
-- Enchanted Book
-- Nether Star
-- Bottle O' Enchanting
+- ### Misc:
+    - Enchantment glint
+    - Splash Texts
 
-### Misc
-- Enchantment glint
+- ### Particles:
+    - Enchantment Table Particles (only 27% done atm)
 
-### Particle
-- Enchantment Table Particles (only 27% done atm)
+## Planned Additions / Texture changes:
 
-</details>
+- ### GUI:
 
+    - [ ] Poison Hearts
+    - [ ] Wither Hearts
+    - [ ] Hunger Bar
+    - [ ] Armor Bar
+    - [ ] Jump Bar
+    - [ ] Menu Background
+    - [ ] Main Menu Panorama
 
-##
+- ### Misc:
+
+    - [ ] More Splash Texts
+
 ## Version naming system: 😸
-> `X.Y.Z`
+> <b>X . Y . Z</b>
 > 
-> `X` - Dev State
+> <b>X</b> - Major Update
 > 
-> `Y` - New Features
+> <b>Y</b> - New Features
 > 
-> `Z` - Minor Patch
+> <b>Z</b> - Minor Patches / Fixes
 
+## Credits:
 
+### indygowithay - Creator:
+- [modrinth](https://modrinth.com/user/4Soyqllb)
+- [github](https://github.com/indygowithay)
 
-##
+### hayden-xyz - Contributor:
+- [modrinth](https://modrinth.com/user/63ewDdJm)
+- [github](https://github.com/hayden-xyz)
