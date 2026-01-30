@@ -1,17 +1,16 @@
-<!-- ==================== BANNER SECTION ==================== -->
+<!-- ==================== HEADER SECTION ==================== -->
 
 <div align="center">
-    <a href="https://github.com/hayden-xyz/hayden-xyz/blob/main/misc/transcendence_banner.png">
-        <img width="1600" height="50" alt="Trans Rights are Human Rights!" src="https://github.com/hayden-xyz/hayden-xyz/blob/main/misc/transcendence_banner.png">
+    <a href="https://github.com/hayden-xyz/hayden-xyz/blob/main/misc/transcendence_title.png">
+        <img width="100%" height="100%" alt="Trans Rights are Human Rights!" src="https://github.com/hayden-xyz/hayden-xyz/blob/main/misc/transcendence_title.png">
     </a>
 </div>
 
-<!-- ==================== HEADER SECTION ==================== -->
-
+<!--
 <h1 align="center">🏳️‍⚧️ Transcendence 🏳️‍⚧️</h1>
-
+-->
 <p align="center">
-    A Resource Pack that aims to replace as many visuals of Minecraft as possible to have a Transgender theme!
+    <b>A Resource Pack that aims to replace as many visuals of Minecraft as possible to have a Transgender theme!</b>
 </p>
 <br>
 
