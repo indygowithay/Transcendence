@@ -1,56 +1,89 @@
-# Transcendence 🏳️‍⚧️
-> A Resource Pack that aims to replace as many visuals of Minecraft as possible to have a Transgender theme!
-##
+<!-- ==================== HEADER SECTION ==================== -->
 
-## List of Features: 🦈
+<div align="center">
+    <a href="https://github.com/hayden-xyz/hayden-xyz/blob/main/misc/transcendence_title.png">
+        <img width="100%" height="100%" alt="Trans Rights are Human Rights!" src="https://github.com/hayden-xyz/hayden-xyz/blob/main/misc/transcendence_title.png">
+    </a>
+</div>
 
-<details>
-<summary>List of Features:</summary>
+<!--
+<h1 align="center">🏳️‍⚧️ Transcendence 🏳️‍⚧️</h1>
+-->
+<p align="center">
+    <b>A Resource Pack that aims to replace as many visuals of Minecraft as possible to have a Transgender theme!</b>
+</p>
+<br>
 
-### Texts
-- Spash Texts
+<!-- ==================== MAIN TEXT SECTION ==================== -->
 
-### Entity
-- Experience Orbs
+## Supported Versions:
 
-### GUI
-- Crosshair
-- Ping Icons
-- Title (Minceraft Easter Egg included)
-- Normal Hearts
-- Hardcore Hearts
-- Absorbing Hearts
-- Hardcore Absorbing Hearts
-- Hotbar
-- Offhand Slots
-- XP Bar
-- Locator Bar
-- 'Vehicle' Heart
-- Server Join Button
+- 1.20.x
+- 1.21.x
 
-### Item
-- Enchanted Book
-- Nether Star
-- Bottle O' Enchanting
+## List of current texture changes: 🦈
 
-### Misc
-- Enchantment Glint
+- ### Entities:
+    - Experience Orbs
+    
+- ### GUI:
+    - Crosshair
+    - Ping icons
+    - Title (Minceraft Easter Egg included)
+    - Normal Hearts
+    - Hardcore Hearts
+    - Absorbing Hearts
+    - Hardcore Absorbing Hearts
+    - Hotbar
+    - Offhand
+    - XP Bar
+    - Locator Bar
+    - Mount Hearts (e.g: Horse, Donkey, etc)
+    - Server Join Button
 
-### Particle
-- Enchantment Table Particles (only 27% done atm)
+- ### Items:
+    - Enchanted Book
+    - Nether Star
+    - Bottle O' Enchanting
 
-</details>
+- ### Misc:
+    - Enchantment glint
+    - Splash Texts
 
+- ### Particles:
+    - Enchantment Table Particles (only 27% done atm)
 
-##
-## Version Naming System: 😸
-> `X.Y.Z`
+## Planned Additions / Texture changes:
+
+- ### GUI:
+
+    - [ ] Poison Hearts
+    - [ ] Wither Hearts
+    - [ ] Hunger Bar
+    - [ ] Armor Bar
+    - [ ] Jump Bar
+    - [ ] Menu Background
+    - [ ] Main Menu Panorama
+
+- ### Misc:
+
+    - [ ] More Splash Texts
+
+## Version naming system: 😸
+> <b>X . Y . Z</b>
 > 
-> `X` - Development State
+> <b>X</b> - Major Update
 > 
-> `Y` - New Features
+> <b>Y</b> - New Features
 > 
-> `Z` - Minor Patch
+> <b>Z</b> - Minor Patches / Fixes
 
+## Credits:
 
-##
+### indygowithay - Creator:
+- [modrinth](https://modrinth.com/user/4Soyqllb)
+- [github](https://github.com/indygowithay)
+
+### hayden-xyz - Contributor:
+- [modrinth](https://modrinth.com/user/63ewDdJm)
+- [github](https://github.com/hayden-xyz)
