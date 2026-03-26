@@ -12,13 +12,13 @@
         "min_format": [60, 0],
         "max_format": [84, 0],
         "formats": {"min_inclusive": 60, "max_inclusive": 84},
-        "directory": "overlay_60_75"
+        "directory": "overlay_60_84"
       },
       {
         "min_format": [32, 0],
         "max_format": [84, 0],
         "formats": {"min_inclusive": 32, "max_inclusive": 84},
-        "directory": "overlay_32_75"
+        "directory": "overlay_32_84"
       },
       {
         "min_format": [32, 0],
