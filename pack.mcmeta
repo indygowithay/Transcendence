@@ -2,12 +2,18 @@
   "pack": {
     "pack_format": 15,
     "min_format": [15, 0],
-    "max_format": [84, 0],
-    "supported_formats":{"min_inclusive": 15, "max_inclusive": 84},
-    "description": "§9Tra§dns e§fver§dywh§9ere§f!              §2§l(v0.8) §r§7§oby Indygowithay"
+    "max_format": [88, 0],
+    "supported_formats":{"min_inclusive": 15, "max_inclusive": 88},
+    "description": "§9Tra§dns e§fver§dywh§9ere§f!              §2§l(v0.8.1) §r§7§oby Indygowithay"
   },
   "overlays": {
     "entries": [
+      {
+        "min_format": [85, 0],
+        "max_format": [88, 0],
+        "formats": {"min_inclusive": 85, "max_inclusive": 88},
+        "directory": "overlay_85_88"
+      },
       {
         "min_format": [60, 0],
         "max_format": [84, 0],
@@ -16,9 +22,9 @@
       },
       {
         "min_format": [32, 0],
-        "max_format": [84, 0],
-        "formats": {"min_inclusive": 32, "max_inclusive": 84},
-        "directory": "overlay_32_84"
+        "max_format": [88, 0],
+        "formats": {"min_inclusive": 32, "max_inclusive": 88},
+        "directory": "overlay_32_88"
       },
       {
         "min_format": [32, 0],
@@ -29,4 +35,3 @@
     ]
   }
 }
-
