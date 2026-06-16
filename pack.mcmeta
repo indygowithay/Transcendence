@@ -15,10 +15,22 @@
         "directory": "overlay_85_88"
       },
       {
-        "min_format": [60, 0],
+        "min_format": [77, 0],
+        "max_format": [88, 0],
+        "formats": {"min_inclusive": 77, "max_inclusive": 88},
+        "directory": "overlay_77_88"
+      },
+      {
+        "min_format": [77, 0],
         "max_format": [84, 0],
-        "formats": {"min_inclusive": 60, "max_inclusive": 84},
-        "directory": "overlay_60_84"
+        "formats": {"min_inclusive": 77, "max_inclusive": 84},
+        "directory": "overlay_77_84"
+      },
+      {
+        "min_format": [60, 0],
+        "max_format": [76, 0],
+        "formats": {"min_inclusive": 60, "max_inclusive": 76},
+        "directory": "overlay_60_76"
       },
       {
         "min_format": [32, 0],
