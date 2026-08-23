@@ -2,13 +2,17 @@
 > A Resource Pack that aims to replace as many visuals of Minecraft as possible to have a Transgender theme!
 ##
 
+> Transcendence is proud to be a part of [Modrinth's Official Pride Collection](https://modrinth.com/collection/M4c3ITvd)! 🏳️‍🌈 That's why there's a faint rainbow gradient on the top of the Modrinth page! Go check out other Queer-made/Pride-themed projects in the collection!
+
 ## List of Features: 🦈
 
 <details>
 <summary>List of Features:</summary>
 
+> Transcendence supports MC versions 1.20 and higher, but Tooltip Outlines are not supported in versions before 1.20.5!
+
 ### Texts
-- Spash Texts
+- Splash Texts
 
 ### Entity
 - Experience Orbs
